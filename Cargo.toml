@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 mersenne-prime-number-miller-rabin = "0.1.0"
+clap = "~2.27.0"
